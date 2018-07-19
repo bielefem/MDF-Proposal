@@ -1,6 +1,6 @@
 # Proposal: [generic support exploratory workflows]
 
-Author(s): [Prof. Dr. Matthias Weidlich, Maximilian Bielefeld]
+Author(s): [Matthias Weidlich, Maximilian Bielefeld]
 
 Last updated: [26.June.2018]
 
